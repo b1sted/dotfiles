@@ -1,0 +1,14 @@
+[font]
+size = 16.0
+
+[font.normal]
+family = "SFMono Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "SFMono Nerd Font"
+style = "Bold"
+
+[window]
+padding.x = 10
+padding.y = 10
