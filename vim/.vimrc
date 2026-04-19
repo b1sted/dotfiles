@@ -3,7 +3,6 @@ syntax on
 filetype plugin indent on
 
 set number
-set relativenumber
 set mouse=a
 set encoding=utf-8
 set noswapfile
